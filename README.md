@@ -1,4 +1,4 @@
-# CUDA program for operations with vectors and matrices on an NVIDIA GPU
+# CUDA program for operations with matrices and vectors on an NVIDIA GPU
 
 A PT-BR report included for more program details and runtime performance analysis
 
