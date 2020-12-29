@@ -2,3 +2,4 @@
 
 - Variables declared in the device scope
 - Constants declared using the #define directive
+- The execution time for each operation is calculated and shown separately
